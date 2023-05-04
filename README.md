@@ -17,12 +17,14 @@ I'm a full stack engineer with background of legal, procurement, project managem
 ## 📈 Stats:
 
 <!-- <p align="left"> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarah-zhan&langs_count=14&hide=yacc,cmake,scss,css&show_icons=true&locale=en&layout=compact" width="100%" alt="sarah-zhan"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarah-zhan&langs_count=14&hide=yacc,cmake,scss,css&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" width="100%" alt="sarah-zhan"/>
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarah-zhan&show_icons=true&locale=en" width="100%" alt="sarah-zhan" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarah-zhan&show_icons=true&locale=en&theme=buefy&hide_border=true" width="100%" alt="sarah-zhan" />
 
 <!-- </p> -->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarah-zhan&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="Yishan's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-zhan&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
 <br>
 
