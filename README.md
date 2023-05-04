@@ -159,9 +159,18 @@ I'm a full stack engineer with background of legal, procurement, project managem
         src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"
         width="48"
         height="48"
-        alt="Rails"
+        alt="RAILS"
       />
       <br /><strong>Rails</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg"
+        width="48"
+        height="48"
+        alt="WORDPRESS"
+      />
+      <br /><strong>Wordpress</strong>
     </td>
 
   <tr>
