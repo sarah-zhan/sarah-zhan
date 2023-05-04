@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 <img src="./Yishan_Zhan.png" alt="banner that says Yishan Zhan - full stack engineer, content creator and community organizer alongside a cartoon illustration of Yishan" >
 
 I'm a full stack engineer with background of legal, procurement, project management, business analyst, who is passionate about making useful apps, helping community, and making our life more convenient. Some technologies I enjoy working with include ReactJS, Ruby on Rails, NodeJS, Postgres, API,etc...anything that is interesting.
--⚡ Fun fact: I have done sky diving and I am looking for bungee jumping.
+
+<div>-⚡ Fun fact: I have done sky diving and I am looking for bungee jumping.
+</div>
+<div>
 -🌱 I’m currently learning TypeScript.
+</div>
