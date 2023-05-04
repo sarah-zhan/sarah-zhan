@@ -20,7 +20,7 @@ I'm a full stack engineer with background of legal, procurement, project managem
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarah-zhan&langs_count=14&hide=yacc,cmake,scss,css&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" width="50%" alt="sarah-zhan"/>
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarah-zhan&show_icons=true&locale=en&theme=buefy&hide_border=true" width="50%" height="100%" alt="sarah-zhan" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarah-zhan&show_icons=true&locale=en&theme=buefy&hide_border=true&count_private=true&hide=stars,issues" width="50%" height="100%" alt="sarah-zhan" />
 
 <!-- </p> -->
 
