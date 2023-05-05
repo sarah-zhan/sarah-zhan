@@ -172,6 +172,33 @@ I'm a full stack engineer with background of legal, procurement, project managem
       />
       <br /><strong>Wordpress</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg"
+        width="48"
+        height="48"
+        alt="JQUERY"
+      />
+      <br /><strong>jQuery</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="./ant-design-svgrepo-com.svg"
+        width="48"
+        height="48"
+        alt="ANTDESIGN"
+      />
+      <br /><strong>AntDesign</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="./material-ui-1.svg"
+        width="48"
+        height="48"
+        alt="MUI"
+      />
+      <br /><strong>MUI</strong>
+    </td>
 
   <tr>
     <td>Databases</td>
