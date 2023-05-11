@@ -8,9 +8,9 @@ I'm a full stack engineer with background of legal, procurement, project managem
 
 <div>-⚡ Fun fact: I have done sky diving and I am looking for bungee jumping.
 </div>
-<div>
--🌱 I’m currently learning TypeScript.
-</div>
+<!-- <div>
+-🌱 I’m currently learning Java.
+</div> -->
 
 <br>
 
