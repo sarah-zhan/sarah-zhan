@@ -4,9 +4,9 @@
 <h1 align="center">Hi, I am Yishan 👋</h1>
 <img src="./Yishan_Zhan.png" alt="banner that says Yishan Zhan - full stack engineer, content creator and community organizer alongside a cartoon illustration of Yishan" >
 <br>
-I'm a full stack engineer with background of legal, procurement, project management, business analyst, who is passionate about making useful apps, helping community, and making our life more convenient. Some technologies I enjoy working with include ReactJS, Ruby on Rails, NodeJS, Postgres, API,etc...anything that is interesting.
+I'm a full-stack engineer with a background in legal, procurement, project management, and business analyst, who is passionate about making useful apps, helping the community, and making our life more convenient. Some technologies I enjoy working with include ReactJS, Ruby on Rails, NodeJS, Postgres, API, etc...anything that is interesting.
 
-<div>-⚡ Fun fact: I have done sky diving and I am looking for bungee jumping.
+<div>-⚡ Fun fact: I have done skydiving and I am looking for bungee jumping.
 </div>
 <!-- <div>
 -🌱 I’m currently learning Java.
