@@ -482,7 +482,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
       />
       <br /><strong>Git</strong>
     </td>
-    <!-- <td align="center" height="108" min-width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
         width="48"
@@ -490,7 +490,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         alt="LINUX"
       />
       <br /><strong>Linux</strong>
-    </td> -->
+    </td>
     <!-- <td align="center" height="108" min-width="108">
       <img
         src="https://www.lindenwood.edu/files/resources/xcomptia-aplus-logo.png.pagespeed.ic.51sgZQp_Qo.png"
