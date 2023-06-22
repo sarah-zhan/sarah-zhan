@@ -118,7 +118,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
       />
       <br /><strong>Remix</strong>
     </td> -->
-    <!-- <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
         width="48"
@@ -126,7 +126,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         alt="NEXT"
       />
       <br /><strong>Next.js</strong>
-    </td> -->
+    </td>
      <!-- <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
