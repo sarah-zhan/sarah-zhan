@@ -2,7 +2,7 @@
 **sarah-zhan/sarah-zhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi, I am Yishan 👋</h1>
-<img src="./Yishan_Zhan.png" alt="banner that says Yishan Zhan - full stack engineer, content creator and community organizer alongside a cartoon illustration of Yishan" >
+<img src="./YishanZhan.png" alt="banner that says Yishan Zhan - full stack engineer, content creator and community organizer alongside a cartoon illustration of Yishan" >
 <br>
 I'm a full-stack engineer with a background in legal, procurement, project management, and business analyst, who is passionate about making useful apps, helping the community, and making our life more convenient. Some technologies I enjoy working with include Data Engineering, Machine Learning, AI, ReactJS, Ruby on Rails, NodeJS, Postgres, API, etc...
 
