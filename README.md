@@ -31,6 +31,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
 ## 💻 Technologies & Tools:
 
 <table>
+
   <tr>
     <td>Languages</td>
     <td align="center" height="108" width="108">
@@ -118,15 +119,6 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
       />
       <br /><strong>React</strong>
     </td>
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://remix.run/img/og.1.jpg"
-        width="48"
-        height="48"
-        alt="REMIX"
-      />
-      <br /><strong>Remix</strong>
-    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
@@ -136,15 +128,6 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
       />
       <br /><strong>Next.js</strong>
     </td>
-     <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-        width="48"
-        height="48"
-        alt="TAILWIND"
-      />
-      <br /><strong>Tailwind</strong>
-    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
@@ -213,6 +196,15 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
     <td>Data Science</td>
     <td align="center" height="108" width="108">
       <img
+        src="./jupyter-icon.svg"
+        width="48"
+        height="48"
+        alt="JUPYTERNOTEBOOK"
+      />
+      <br /><strong>JupyterNB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
         width="48"
         height="48"
@@ -254,7 +246,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         height="48"
         alt="XGBOOST"
       />
-      <br /><strong>RandomForest</strong>
+      <br /><strong>RF</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -498,82 +490,6 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
     </td>
   </tr>
 
-  <!-- <tr>
-    <td>Game Development & Design</td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Illustrator_CS3_icon_mockup.svg/2048px-Adobe_Illustrator_CS3_icon_mockup.svg.png"
-        width="48"
-        height="48"
-        alt="ILLUSTRATOR"
-      />
-      <br /><strong>Illustrator</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-        width="48"
-        height="48"
-        alt="PHOTOSHOP"
-      />
-      <br /><strong>Photoshop</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png"
-        width="48"
-        height="48"
-        alt="INDESIGN"
-      />
-      <br /><strong>InDesign</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw"
-        width="48"
-        height="48"
-        alt="XD"
-      />
-      <br /><strong>AdobeXD</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
-        width="48"
-        height="48"
-        alt="FIGMA"
-      />
-      <br /><strong>Figma</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://i.imgur.com/4FEZwIp.png"
-        width="48"
-        height="48"
-        alt="GAMEMAKER"
-      />
-      <br /><strong>GameMaker</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-        width="48"
-        height="48"
-        alt="UNITY"
-      />
-      <br /><strong>Unity</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg"
-        width="48"
-        height="48"
-        alt="KRITA"
-      />
-      <br /><strong>Krita</strong>
-    </td>
-  </tr> -->
-
   <tr>
     <td>Version Control etc.</td>
     <td align="center" height="108" min-width="108">
@@ -604,4 +520,5 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
        <br /><strong>Comptia A+</strong>
     </td> -->
   </tr>
+
 </table>
