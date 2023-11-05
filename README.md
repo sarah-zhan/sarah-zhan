@@ -210,17 +210,93 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
     </td>
 
   <tr>
-    <td>Databases</td>
-     <!-- <td align="center" height="108" width="108">
+    <td>Data Science</td>
+    <td align="center" height="108" width="108">
       <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
         width="48"
         height="48"
-        alt="FIREBASE"
+        alt="NUMPY"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>Numpy</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
+        width="48"
+        height="48"
+        alt="PANDAS"
+      />
+      <br /><strong>Pandas</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+        width="48"
+        height="48"
+        alt="SKLEARN"
+      />
+      <br /><strong>Sklearn</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png"
+        width="48"
+        height="48"
+        alt="XGBOOST"
+      />
+      <br /><strong>XGBoost</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="./random-forest-classifier.svg"
+        width="48"
+        height="48"
+        alt="XGBOOST"
+      />
+      <br /><strong>RandomForest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="./logistic-regression.svg"
+        width="48"
+        height="48"
+        alt="LOGISTICREGRESSION"
+      />
+      <br /><strong>LogisticRegression</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="./decision-tree-regression.svg"
+        width="48"
+        height="48"
+        alt="DECISIONTREES"
+      />
+      <br /><strong>DecisionTrees</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
+        width="48"
+        height="48"
+        alt="TENSORFLOW"
+      />
+      <br /><strong>TensorFlow</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
+        width="48"
+        height="48"
+        alt="KERAS"
+      />
+      <br /><strong>Keras</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    </td>
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/supabase-TAiY.png"
         width="48"
@@ -228,7 +304,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         alt="SUPABASE"
       />
       <br /><strong>Supabase</strong>
-    </td> -->
+    </td>  -->
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -274,6 +350,15 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         />
         <br /><strong>SQL Server</strong>
       </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+        width="48"
+        height="48"
+        alt="FIREBASE"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
   </tr>
   <tr>
     <!-- <td>Mobile Development</td>
@@ -319,12 +404,21 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
     <td>Cloud</td>
      <td align="center" height="108" width="108">
       <img
-        src="https://www.zencos.com/wp-content/uploads/2021/11/aws-logo.png"
+        src="./amazon-web-services-2.svg"
         width="48"
         height="48"
         alt="AWS"
       />
       <br /><strong>AWS</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="./streamlit.png"
+        width="48"
+        height="48"
+        alt="STREAMLIT"
+      />
+      <br /><strong>Streamlit</strong>
     </td>
     <!-- <td align="center" height="108" width="108">
       <img
