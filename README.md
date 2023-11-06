@@ -201,7 +201,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         height="48"
         alt="JUPYTERNOTEBOOK"
       />
-      <br /><strong>JupyterNB</strong>
+      <br /><strong>Jupyter</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
