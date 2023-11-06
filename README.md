@@ -230,7 +230,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
       />
       <br /><strong>Sklearn</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png"
         width="48"
@@ -265,7 +265,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         alt="DECISIONTREES"
       />
       <br /><strong>DecisionTrees</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
@@ -434,6 +434,15 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
 
   <tr>
     <td>Testing</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"
+        width="48"
+        height="48"
+        alt="SELENIUM"
+      />
+      <br /><strong>Selenium</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
