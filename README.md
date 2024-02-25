@@ -4,13 +4,31 @@
 <h1 align="center">Hi, I am Yishan 👋</h1>
 <img src="./YishanZhan.png" alt="banner that says Yishan Zhan - full stack engineer, content creator and community organizer alongside a cartoon illustration of Yishan" >
 <br>
-I'm a full-stack engineer with a background in legal, procurement, project management, and business analyst, who is passionate about making useful apps, helping the community, and making our life more convenient. Some technologies I enjoy working with include Data Engineering, Machine Learning, AI, ReactJS, Ruby on Rails, NodeJS, Postgres, API, etc...
+🌟 Passionate Learner and Curiosity Seeker 🌟
 
-<div>-⚡ Fun fact: I have done skydiving and I am looking for bungee jumping.
-</div>
-<!-- <div>
--🌱 I’m currently learning Java.
-</div> -->
+I have an insatiable thirst for knowledge, and learning is an integral part of my daily routine. It fuels me and provides the nourishment I need to grow. I am always on the lookout for opportunities to enhance my skills and explore new possibilities in order to find innovative solutions.
+
+💥 Inventor and Simplifier 💥
+
+I thrive on innovation and strive to simplify processes. I believe in embracing discomfort and pushing boundaries to uncover new ideas and approaches.
+
+👩‍💻 Experience and Expertise 👩‍💻
+
+With over eight years of experience in various industries, including Retail, E-commerce, Legal, and Manufacturing, I have honed my skills in Project Management, Facilitation, Process Improvement, Business Intelligence, and Technology problem-solving. I am a results-oriented professional who is driven by data and focused on achieving key performance indicators (KPIs). My contributions have positively impacted company performance and annual revenue.
+
+😊 Seeking New Opportunities 😊
+
+I am excited to apply my transferable skills and experience to your company. Let's explore how we can collaborate and make great things happen.
+
+⚒️ Technical Skills ⚒️
+
+I am proficient in Python, JavaScript, Ruby, HTML, CSS, and TypeScript, as well as frameworks and libraries such as Pandas, Numpy, Scikitlearn, NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Rails, Redux, WordPress, NEXT.js, Web Scraping, and Machine Learning. Additionally, I have experience with tools like Storybook, Cypress, Jest, Mocha, Chai, and RSpec. I am also adept at working with databases like PostgreSQL, Oracle, MS SQL Server, and have expertise in Power BI, Excel, Jira, Confluence, Google Analytics, AWS Cloud, Git, and DynamoDB.
+
+🎓 Professional Certifications 🎓
+
+I hold the following professional certifications: Project Management Professional, Certified Business Analysis Professional, and AWS Cloud Practitioner.
+
+Interests: I am open to exploring any exciting opportunities or projects that come my way!
 
 <br>
 
@@ -230,7 +248,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
       />
       <br /><strong>Sklearn</strong>
     </td>
-    <!-- <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png"
         width="48"
@@ -244,7 +262,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         src="./random-forest-classifier.svg"
         width="48"
         height="48"
-        alt="XGBOOST"
+        alt="RF"
       />
       <br /><strong>RF</strong>
     </td>
@@ -265,7 +283,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         alt="DECISIONTREES"
       />
       <br /><strong>DecisionTrees</strong>
-    </td> -->
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
@@ -283,6 +301,27 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         alt="KERAS"
       />
       <br /><strong>Keras</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>Data Engineer</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://mintlify.s3-us-west-1.amazonaws.com/mage/logo/light.svg"
+        width="48"
+        height="48"
+        alt="Mage"
+      />
+      <br /><strong>Mage</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"
+        width="48"
+        height="48"
+        alt="dbt"
+      />
+      <br /><strong>dbt</strong>
     </td>
   </tr>
   <tr>
@@ -338,7 +377,7 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
           src="./microsoft-sql-server-1.svg"
           width="48"
           height="48"
-          alt="ORACLE"
+          alt="SQLSERVER"
         />
         <br /><strong>SQL Server</strong>
       </td>
@@ -350,6 +389,15 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         alt="FIREBASE"
       />
       <br /><strong>Firebase</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"
+        width="48"
+        height="48"
+        alt="BIGQUERY"
+      />
+      <br /><strong>BIGQUERY</strong>
     </td>
   </tr>
   <tr>
@@ -402,6 +450,15 @@ I'm a full-stack engineer with a background in legal, procurement, project manag
         alt="AWS"
       />
       <br /><strong>AWS</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+        width="48"
+        height="48"
+        alt="Google Cloud"
+      />
+      <br /><strong>Google Cloud</strong>
     </td>
      <td align="center" height="108" width="108">
       <img
